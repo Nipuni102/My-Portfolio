@@ -707,8 +707,8 @@ section,
 }
 
 .profile-image {
-  width: 230px; /* Adjust as needed */
-  height: 230px; /* Adjust as needed */
+  width: 180px; /* Adjust as needed */
+  height: 180px; /* Adjust as needed */
   border-radius: 50%; /* Makes the image circular */
   background-color: #18d26e; /* Teal background color */
   display: flex;
