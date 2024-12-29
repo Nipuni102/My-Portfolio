@@ -57,6 +57,7 @@
   scroll-behavior: smooth;
 }
 
+
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
 --------------------------------------------------------------*/
@@ -703,7 +704,7 @@ section,
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: -40px; /* Remove or minimize any left margin */
+  margin-right: 10%;
 }
 
 .profile-image {
